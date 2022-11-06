@@ -1,0 +1,17 @@
+{
+    "name": "rodrigovieiradelbem/dashboard-user-dmer",
+    "description": "A WordPress plugin that lets the users share messages in the dashboard",
+    "type": "wp-plugin",
+    "autoload": {
+        "psr-4": {
+            "DashboardUserDmer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rodrigo Del Bem",
+            "email": "rodrigodelbem@gmail.com"
+        }
+    ],
+    "require": {}
+}
